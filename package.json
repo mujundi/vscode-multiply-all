@@ -1,6 +1,6 @@
 {
   "name": "multiply-all",
-	"displayName": "Muliply All",
+	"displayName": "Multiply All",
 	"description": "Multiplies all numerical selections by a common value",
 	"version": "0.1.0",
 	"publisher": "mujundi",
