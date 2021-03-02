@@ -2,7 +2,7 @@
   "name": "multiply-all",
 	"displayName": "Multiply All",
 	"description": "Multiplies all numerical selections by a common value",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "mujundi",
 	"icon": "images/logo.png",
 	"engines": {
